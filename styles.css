@@ -54,3 +54,8 @@ footer {
   background-color: #111827;
   color: white;
 }
+
+.faq h3 {
+  margin-top: 20px;
+  color: #2563eb;
+}
